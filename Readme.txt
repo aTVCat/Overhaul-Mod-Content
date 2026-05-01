@@ -1,1 +1,0 @@
-This repository contains content-related stuff for Clone Drone Overhaul mod
